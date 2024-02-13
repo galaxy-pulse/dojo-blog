@@ -1,0 +1,16 @@
+{
+    "blogs": [
+        {
+            "title": "My First Blog",
+            "body": "This is a bunch of text\nI'm writing a bunch of text for the sake of the example. I could really go for a pizza. Well, maybe not really. Like a non-greasy pizza would be lovely, but a whole pizza that I know will be greasy? No thank you. Not interested.\nHowever, I could really use some more coffee. I'm going to drink some more of it.\nBliss.",
+            "author": "mario",
+            "id": 1
+        },
+        {
+            "title": "Opening Party!",
+            "body": "This is a bunch of text\nI'm writing a bunch of text for the sake of the example. I could really go for a pizza. Well, maybe not really. Like a non-greasy pizza would be lovely, but a whole pizza that I know will be greasy? No thank you. Not interested.\nHowever, I could really use some more coffee. I'm going to drink some more of it.\nBliss.",
+            "author": "yoshi",
+            "id": 2
+        }
+    ]
+}
